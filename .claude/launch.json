@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "docs",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["dev"],
+      "port": 3000
+    },
+    {
+      "name": "docusaurus",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--dir", "../docs-docusaurus", "exec", "docusaurus", "serve", "--port", "3100", "--no-open"],
+      "port": 3100
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Podręcznik Administratora Systemu",
+  "pages": [
+    "index",
+    "---Rozdziały---",
+    "wprowadzenie",
+    "logowanie-i-dostep-do-systemu",
+    "nawigacja",
+    "zarzadzanie-zapotrzebowaniami-inwestycyjnymi",
+    "zarzadzanie-zamowieniami",
+    "zarzadzanie-reklamacjami",
+    "zarzadzanie-jednostkami-organizacyjnymi",
+    "zarzadzanie-kategoriami",
+    "zarzadzanie-produktami",
+    "zarzadzanie-planami-budzetowymi",
+    "zarzadzanie-formularzami-budzetowymi",
+    "zarzadzanie-korektami-planow-budzetowych",
+    "zarzadzanie-dostawcami",
+    "zarzadzanie-umowami",
+    "zarzadzanie-dokumentami",
+    "zarzadzanie-powiadomieniami-i-banerami",
+    "zarzadzanie-karami",
+    "zarzadzanie-rejonami",
+    "generowanie-raportow",
+    "dziennik-aktywnosci-i-rejestr-logowan",
+    "zarzadzanie-uzytkownikami",
+    "zarzadzanie-rolami",
+    "zarzadzanie-rejestracjami",
+    "zarzadzanie-slownikami",
+    "dodatkowe-ustawienia-systemu"
+  ]
+}
